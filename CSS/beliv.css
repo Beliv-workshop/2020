@@ -92,6 +92,12 @@ a:focus {
   text-decoration: none;
 }
 
+.sponsor{
+	width:200px;
+	height:auto;
+	margin-top:10px;
+}
+
 .sidebar a {
   color: #2458c3;
   text-decoration: none;
@@ -415,12 +421,19 @@ a.active:hover{
 
 .title{
 	display: block;
+	margin-top:8px;
+}
+.title span{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+	margin-top:10px;
 }
   .main-content {
 		margin-bottom:30px;
 		margin-top: 15px;
 }
-}
+
 .sidebar {
 	padding-top:15px;
 		

@@ -14,24 +14,10 @@ This is the contact information that is added into the sidebar div. Change these
 
 let organizerData = [
     {
-        name: 'Michael Sedlmair', 
-        weblink: 'https://homepage.univie.ac.at/michael.sedlmair/', 
-        affil: 'Univ. of Stuttgart',
-        blurb:`is an assistant professor at the
-        University of Stuttgart in Germany. He holds a PhD from the
-        University of Munich (2010). Michael's main research
-        interests are interdisciplinary visualization research,
-        high-dimensional data analysis, as well as investigating new
-        and refined methodological approaches for visualization
-        design and evaluation.`,
-    },
-    {
-        name: 'Miriah Meyer', 
-        weblink: 'https://www.cs.utah.edu/~miriah/', 
-        affil: 'University of Utah',
-        blurb:`is an associate professor in the School of Computing at the University of Utah and a faculty member in the 
-        Scientific Computing and Imaging Institute. Her research focuses on the design of visualization systems for helping researchers 
-        make sense of complex data, and on the development of methods for helping visualization designers make sense of the world.`
+        name: 'Anastasia Bezerianos', 
+        weblink: 'https://www.lri.fr/~anab/', 
+        affil: '',
+        blurb:'test'
     },
     {
         name: 'Kyle Hall', 
@@ -42,23 +28,37 @@ let organizerData = [
         and scientific visualization.`
     },
     {
-        name: 'Matthew Kay', 
-        weblink: 'https://www.si.umich.edu/people/matthew-kay', 
-        affil: 'University of Michigan',
-        blurb:'test'
-    },
-    {
         name: 'Samuel Huron', 
         weblink: 'https://perso.telecom-paristech.fr/shuron/#!index.md', 
         affil: 'Telecom Paris Tech',
         blurb:'test'
     },
     {
-        name: 'Anastasia Bezerianos', 
-        weblink: 'https://www.lri.fr/~anab/', 
-        affil: '',
+        name: 'Matthew Kay', 
+        weblink: 'https://www.si.umich.edu/people/matthew-kay', 
+        affil: 'University of Michigan',
         blurb:'test'
     },
+    {
+        name: 'Miriah Meyer', 
+        weblink: 'https://www.cs.utah.edu/~miriah/', 
+        affil: 'University of Utah',
+        blurb:`is an associate professor in the School of Computing at the University of Utah and a faculty member in the 
+        Scientific Computing and Imaging Institute. Her research focuses on the design of visualization systems for helping researchers 
+        make sense of complex data, and on the development of methods for helping visualization designers make sense of the world.`
+    },
+    {
+        name: 'Michael Sedlmair', 
+        weblink: 'https://homepage.univie.ac.at/michael.sedlmair/', 
+        affil: 'Univ. of Stuttgart',
+        blurb:`is an assistant professor at the
+        University of Stuttgart in Germany. He holds a PhD from the
+        University of Munich (2010). Michael's main research
+        interests are interdisciplinary visualization research,
+        high-dimensional data analysis, as well as investigating new
+        and refined methodological approaches for visualization
+        design and evaluation.`,
+    }
 ];
 
 let publicityData = [
