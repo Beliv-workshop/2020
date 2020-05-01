@@ -16,8 +16,9 @@ let organizerData = [
     {
         name: 'Anastasia Bezerianos', 
         weblink: 'https://www.lri.fr/~anab/', 
-        affil: '',
-        blurb:'test'
+        affil: 'LRI-Université Paris-Sud 11',
+        blurb:`I am an assistant professor at LRI-Université Paris-Sud 11, part of the LRI HCC (ex InSitu) and the ILDA research team. 
+        My interests lie in novel interaction and visualization design and evaluation, especially on large high resolution displays.`
     },
     {
         name: 'Kyle Hall', 
@@ -31,13 +32,16 @@ let organizerData = [
         name: 'Samuel Huron', 
         weblink: 'https://perso.telecom-paristech.fr/shuron/#!index.md', 
         affil: 'Telecom Paris Tech',
-        blurb:'test'
+        blurb:`Samuel Huron is an associate professor in Design and ICT at Telecom Paris Tech in France. He holds a PhD in computer science from the 
+        University Paris Saclay in collaboration with INRIA. His research is mostly focus on the design process of visual representation of data, 
+        design methods apply to research and computer human interaction.`
     },
     {
         name: 'Matthew Kay', 
         weblink: 'https://www.si.umich.edu/people/matthew-kay', 
         affil: 'University of Michigan',
-        blurb:'test'
+        blurb:` is an Assistant Professor of Information at UMSI. His research includes work on communicating uncertainty, usable statistics, 
+        and personal informatics. `
     },
     {
         name: 'Miriah Meyer', 
@@ -66,7 +70,8 @@ let publicityData = [
         name: 'Jen Rogers', 
         weblink: 'https://vdl.sci.utah.edu/team/rogers/', 
         affil: 'University of Utah',
-        blurb:`is a PhD student at the University of Utah.`
+        blurb:`is a PhD student at the University of Utah. Her main research focus is the design and development of visualization systems for 
+        biological disciplines to help researchers explore their data.`
     }
 ];
 
