@@ -17,14 +17,14 @@ let organizerData = [
         name: 'Anastasia Bezerianos', 
         weblink: 'https://www.lri.fr/~anab/', 
         affil: 'LRI-Université Paris-Sud 11',
-        blurb:`I am an assistant professor at LRI-Université Paris-Sud 11, part of the LRI HCC (ex InSitu) and the ILDA research team. 
+        blurb:`is an assistant professor at LRI-Université Paris-Sud 11, part of the LRI HCC (ex InSitu) and the ILDA research team. 
         My interests lie in novel interaction and visualization design and evaluation, especially on large high resolution displays.`
     },
     {
         name: 'Kyle Hall', 
         weblink: 'https://kylewmhall.com', 
         affil: 'Temple University',
-        blurb:`Kyle Hall is a post-doctoral fellow at Temple University.  He holds an interdisciplinary PhD from the University of Calgary.  
+        blurb:`is a post-doctoral fellow at Temple University.  He holds an interdisciplinary PhD from the University of Calgary.  
         His research interests include transdisciplinary visualization design, design methodology, and techniques bridging information visualization 
         and scientific visualization.`
     },
@@ -32,7 +32,7 @@ let organizerData = [
         name: 'Samuel Huron', 
         weblink: 'https://perso.telecom-paristech.fr/shuron/#!index.md', 
         affil: 'Telecom Paris Tech',
-        blurb:`Samuel Huron is an associate professor in Design and ICT at Telecom Paris Tech in France. He holds a PhD in computer science from the 
+        blurb:`is an associate professor in Design and ICT at Telecom Paris Tech in France. He holds a PhD in computer science from the 
         University Paris Saclay in collaboration with INRIA. His research is mostly focus on the design process of visual representation of data, 
         design methods apply to research and computer human interaction.`
     },
