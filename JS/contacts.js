@@ -16,9 +16,9 @@ let organizerData = [
     {
         name: 'Anastasia Bezerianos', 
         weblink: 'https://www.lri.fr/~anab/', 
-        affil: 'LRI-Université Paris-Sud 11',
-        blurb:`is an assistant professor at LRI-Université Paris-Sud 11, part of the LRI HCC (ex InSitu) and the ILDA research team. 
-        My interests lie in novel interaction and visualization design and evaluation, especially on large high resolution displays.`
+        affil: 'Université Paris-Saclay',
+        blurb:`is an assistant professor at Université Paris-Saclay, part of the LRI HCC (ex InSitu) and the ILDA research team. 
+        Her interests lie in novel interaction and visualization design and evaluation, especially on large high resolution displays.`
     },
     {
         name: 'Kyle Hall', 
