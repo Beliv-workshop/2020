@@ -53,15 +53,10 @@ let organizerData = [
     },
     {
         name: 'Michael Sedlmair', 
-        weblink: 'https://homepage.univie.ac.at/michael.sedlmair/', 
-        affil: 'Univ. of Stuttgart',
-        blurb:`is an assistant professor at the
-        University of Stuttgart in Germany. He holds a PhD from the
-        University of Munich (2010). Michael's main research
-        interests are interdisciplinary visualization research,
-        high-dimensional data analysis, as well as investigating new
-        and refined methodological approaches for visualization
-        design and evaluation.`,
+        weblink: 'https://www.vis.uni-stuttgart.de/institut/team/Sedlmair-00002/', 
+        affil: 'University of Stuttgart',
+        blurb:`is an assistant professor at the University of Stuttgart in Germany. His main research interests are data visualization, 
+        virtual/augmented reality, as well as investigating new and refined methodological approaches for these areas`,
     }
 ];
 
