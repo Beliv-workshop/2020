@@ -5,13 +5,6 @@
 This is the contact information that is added into the sidebar div. Change these to update the contact in the sidebar.
 */
 
-
-// Anastasia Bezerianos
-// Kyle Hall <hallkw@ucalgary.ca>,
-// Miriah Meyer <miriah@cs.utah.edu>,
-// Samuel Huron <samuel.huron@telecom-paristech.fr>,
-// Matthew Kay <mjskay@umich.edu>
-
 let organizerData = [
     {
         name: 'Anastasia Bezerianos', 
@@ -70,6 +63,14 @@ let publicityData = [
     }
 ];
 
+let socialMedia = [
+    {
+        name: 'Twitter',
+        webLink: 'https://twitter.com/belivworkshop',
+        class: 'fab fa-twitter fa-3x'
+    }
+]
+
 /*
 Code that adds data to div
 */
@@ -95,6 +96,18 @@ if($("#publicity-bio").length > 0){
     makeBio(publicityData, $("#publicity-bio"))
 }
 
+let socialDiv = wrapper.append('<div class="social"></div>');
+
+
+
+makeSocial(socialMedia, socialDiv);
+
+function makeSocial(data, div){
+    console.log(div)
+    for(let i in data){
+        div.append(`<a href='${data[i].weblink}'><i class="${data[i].class}"></i> Connect on Twitter</a><br>`);
+    }
+}
 
 function makeContact(data, div){
     for(let i in data){

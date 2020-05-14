@@ -150,6 +150,13 @@ a.active:hover{
 }
 .bs-header .container{
 	}
+
+.social{
+	margin:auto;
+	padding-top:60px;
+	padding-left:5px;
+	text-align: center;
+}
 	
 #footer{
 	/* border-top:2px #bdc9d1 solid; */
